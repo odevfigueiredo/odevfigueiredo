@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou Jonatha 👋
 
-<!--
-**odevfigueiredo/odevfigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em Full-Stack, com interesse em interfaces modernas e responsivas.
 
-Here are some ideas to get you started:
+### Tecnologias
+- HTML5, CSS3
+- JavaScript
+- Java
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em destaque
+- 🔗 Portfolio pessoal
+- 🔗 Projetos Educacionais
+- 🔗 Tema Switch OLED
+📫 Contato: jon.setup.comercial@email.com
