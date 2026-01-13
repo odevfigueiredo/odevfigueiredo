@@ -28,8 +28,8 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/jonatha-figueiredo-942131270/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="mailto:jonsetupcomercial@gmail.com">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jon.setup.comercial@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   </
