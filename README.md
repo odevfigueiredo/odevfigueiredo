@@ -29,8 +29,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jonatha-figueiredo-942131270/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jon.setup.comercial@gmail.com?subject=Hello%20Jonatha%20from%20GitHub">
+<a href="mailto:jonsetupcomercial@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   </
