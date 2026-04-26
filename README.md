@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7B2FF7&height=180&section=header&text=Jonatha%20Figueiredo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20%7C%20Modern%20Interfaces%20%7C%20Scalable%20Systems&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:7C3AED&height=190&section=header&text=Jonatha%20Figueiredo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20%7C%20Modern%20Interfaces&descAlignY=58&descSize=17" />
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Web+%26+Mobile+Applications;React+Native+%7C+Node.js+%7C+Expo;Clean+Architecture+%7C+Performance+%7C+Scalability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Mobile+%26+Web+Applications;React+Native+%7C+Expo+%7C+Node.js;Building+clean+and+scalable+systems" alt="Typing SVG" />
 
 </div>
 
@@ -107,7 +107,7 @@ Driven by real-world projects, disciplined execution and continuous improvement.
       <br><br>
       <img 
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=odevfigueiredo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9074ff&icon_color=38BDF8&text_color=C9D1D9"
+        src="https://github-readme-stats.vercel.app/api?username=odevfigueiredo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=DC2626&text_color=C9D1D9"
         alt="GitHub Stats"
       />
     </td>
@@ -122,7 +122,18 @@ Driven by real-world projects, disciplined execution and continuous improvement.
     </td>
   </tr>
 </table>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=850&lines=Open+to+new+opportunities;Building+modern+web+and+mobile+applications;Clean+code%2C+performance+and+scalable+systems;Let's+connect+and+create+something+impactful" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/jonatha-figueiredo-942131270/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:jon.setup.comercial@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:DC2626&height=120&section=footer" />
 
 </div>
-
----
