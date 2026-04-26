@@ -23,21 +23,6 @@ Driven by real-world projects, disciplined execution and continuous improvement.
 
 ---
 
-## 🚀 About Me
-
-<img align="right" height="210" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 💻 Full-Stack Developer focused on **web and mobile applications**
-- 🧠 Passionate about **clean code, scalable systems and modern interfaces**
-- ⚙️ Building with **React Native, Expo, Node.js, Vite and Tailwind CSS**
-- 📱 Interested in high-performance apps with strong UI/UX foundations
-- 🧩 Constantly improving through practical projects and modern technologies
-- 🎯 Goal: create products that are clean, useful, scalable and professional
-
-<br clear="right"/>
-
----
-
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <div align="center">
@@ -111,7 +96,7 @@ Driven by real-world projects, disciplined execution and continuous improvement.
 
 ---
 
-## 📊 GitHub Status
+<h2 align="center">📊 GitHub Status</h2>
 
 <div align="center">
 
