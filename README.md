@@ -126,7 +126,7 @@ Driven by real-world projects, disciplined execution and continuous improvement.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=850&lines=Open+to+new+opportunities;Building+modern+web+and+mobile+applications;Clean+code%2C+performance+and+scalable+systems;Let's+connect+and+create+something+impactful" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/jonatha-figueiredo-942131270/" target="_blank">
+<a href="https://www.linkedin.com/in/jonathafigueiredo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
